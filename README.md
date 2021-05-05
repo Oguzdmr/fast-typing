@@ -1,5 +1,8 @@
 # fast-typing
 
+## Proje Açıklaması
+Klavye le 1 dakikada kaç kelime yazdığınızı ölçebileceğiniz bir projedir.
+
 ## Project setup
 ```
 npm install
